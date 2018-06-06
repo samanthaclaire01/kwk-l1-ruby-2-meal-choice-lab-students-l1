@@ -7,7 +7,7 @@ def lunch(sandwich, chips)
 end
 lunch("Grilled Cheese", "Lays")
 def snack(fruit, cheese)
-  puts "This afternoon I will eat #{fruit} and #{cheese}."
+  puts "This afternoon, I will eat #{fruit} and #{cheese}."
 end
 snack("Apples", "Monterey Jack cheese")
 def dinner(appetizer, main_course, side)
